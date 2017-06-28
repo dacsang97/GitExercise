@@ -12,6 +12,9 @@ Bên trong project này có một file là description.txt
 Sửa file description.txt theo ý của bạn.
 
 ### 3. Tạo Branch mới
+```
+git branch ten_branch
+```
 Tạo branch mới, checkout sang branch mới vào tạo 1 file có tên là tên của bạn. Nội dung tùy ý.
 
 ### 4. Commit & Push

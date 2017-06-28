@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edited by Dan Huong
+=======
+Minh thich thi minh sua thoi
+>>>>>>> c5414591d335c456e75cfa6dac7b4e905d246a03
